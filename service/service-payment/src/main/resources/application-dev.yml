@@ -45,7 +45,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://192.168.124.25:3306/shequ-order?characterEncoding=utf-8&useSSL=false
     username: root
-    password: root
+    password: liufc520
     hikari:
       connection-test-query: SELECT 1
       connection-timeout: 60000
