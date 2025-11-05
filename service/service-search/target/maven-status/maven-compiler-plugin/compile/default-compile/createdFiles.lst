@@ -1,0 +1,6 @@
+com/atguigu/ssyx/search/repository/SkuRepository.class
+com/atguigu/ssyx/search/service/impl/SkuServiceImpl.class
+com/atguigu/ssyx/search/controller/SkuApiController.class
+com/atguigu/ssyx/search/service/SkuService.class
+com/atguigu/ssyx/search/receiver/SkuReceiver.class
+com/atguigu/ssyx/ServiceSearchApplication.class
